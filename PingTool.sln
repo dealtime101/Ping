@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.33529.622
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingTool", "PingTool\PingTool.csproj", "{7BA0D4C8-9792-427F-AFC4-E5E1840B8A6D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{30DB503A-28FA-4B11-9E1B-596F1B1C760A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

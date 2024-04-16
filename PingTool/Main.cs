@@ -112,5 +112,10 @@ namespace PingTool
         {
             MessageBox.Show("Work In Progress");
         }
+
+        private void btn_x_close_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
